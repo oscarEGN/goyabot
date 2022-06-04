@@ -1,0 +1,23 @@
+{
+  "name": "goyabot",
+  "version": "0.0.1",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oscarEGN/goyabot.git"
+  },
+  "author": "Oscar D. Egenschwiller R. L.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oscarEGN/goyabot/issues"
+  },
+  "homepage": "https://github.com/oscarEGN/goyabot#readme",
+  "dependencies": {
+    "discord.js": "^13.7.0",
+    "dotenv": "^16.0.1"
+  }
+}
